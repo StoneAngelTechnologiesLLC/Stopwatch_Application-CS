@@ -1,0 +1,21 @@
+c:\users\john pietrangelo\documents\visual studio 2015\Projects\StopWatchJohnPietrangelo\StopWatchJohnPietrangelo\bin\Debug\StopWatchJohnPietrangelo.exe.config
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\StopWatchJohnPietrangelo\bin\Debug\StopWatchJohnPietrangelo.exe
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\StopWatchJohnPietrangelo\bin\Debug\StopWatchJohnPietrangelo.pdb
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.csprojResolveAssemblyReference.cache
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.MyApp.resources
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.Properties.Resources.resources
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.csproj.GenerateResource.Cache
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.exe
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.pdb
+C:\Users\John Pietrangelo\Desktop\CIS345Submissions\StopWatchJohnPietrangelo\bin\Debug\StopWatchJohnPietrangelo.exe.config
+C:\Users\John Pietrangelo\Desktop\CIS345Submissions\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.exe
+C:\Users\John Pietrangelo\Desktop\CIS345Submissions\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.pdb
+C:\Users\John Pietrangelo\Desktop\CIS345Submissions\StopWatchJohnPietrangelo\bin\Debug\StopWatchJohnPietrangelo.exe
+C:\Users\John Pietrangelo\Desktop\CIS345Submissions\StopWatchJohnPietrangelo\bin\Debug\StopWatchJohnPietrangelo.pdb
+C:\Users\John Pietrangelo\Desktop\CIS345Submissions\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.csprojResolveAssemblyReference.cache
+C:\Users\John Pietrangelo\Desktop\CIS345Submissions\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.MyApp.resources
+C:\Users\John Pietrangelo\Desktop\CIS345Submissions\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.Properties.Resources.resources
+C:\Users\John Pietrangelo\Desktop\CIS345Submissions\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.csproj.GenerateResource.Cache
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\bin\Debug\StopWatchJohnPietrangelo.exe.config
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.exe
+C:\Users\John Pietrangelo\Documents\Visual Studio 2015\Projects\StopWatchJohnPietrangelo\obj\Debug\StopWatchJohnPietrangelo.pdb
